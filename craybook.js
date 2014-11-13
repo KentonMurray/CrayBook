@@ -10,10 +10,10 @@ $(function() {
   /*
    * Replacement strings
    */
-  var LIKE_REPLACE = 'NOICE!';
-  var UNLIKE_REPLACE = 'Not noice';
-  var LIKE_THIS_REPLACE = 'Noiced! this';
-  var LIKES_THIS_REPLACE = 'Noiced their Noice!';
+  var LIKE_REPLACE = 'NOOICE!';
+  var UNLIKE_REPLACE = 'Not nooice';
+  var LIKE_THIS_REPLACE = 'Nooiced! this';
+  var LIKES_THIS_REPLACE = 'Nooiced their Nooice!';
   
   /*
    * Do periodic replacements, since "Like" and "Unlike"
